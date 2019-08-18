@@ -2,27 +2,27 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3298" started-at="2019-08-18T05:58:25Z" finished-at="2019-08-18T05:58:28Z">
+  <suite name="Default suite" duration-ms="7362" started-at="2019-08-18T17:26:32Z" finished-at="2019-08-18T17:26:39Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3298" started-at="2019-08-18T05:58:25Z" finished-at="2019-08-18T05:58:28Z">
+    <test name="Default test" duration-ms="7362" started-at="2019-08-18T17:26:32Z" finished-at="2019-08-18T17:26:39Z">
       <class name="com.TCS.testCase.searchInGoogleWithData">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.TCS.testCase.searchInGoogleWithData@587e5365]" name="setUp" is-config="true" duration-ms="10793" started-at="2019-08-18T11:28:14Z" finished-at="2019-08-18T11:28:25Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.TCS.testCase.searchInGoogleWithData@587e5365]" name="setUp" is-config="true" duration-ms="78973" started-at="2019-08-18T22:55:13Z" finished-at="2019-08-18T22:56:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="searchGoogle(java.lang.String)[pri:0, instance:com.TCS.testCase.searchInGoogleWithData@587e5365]" name="searchGoogle" duration-ms="3172" started-at="2019-08-18T11:28:25Z" data-provider="getData" finished-at="2019-08-18T11:28:28Z">
+        <test-method status="PASS" signature="searchGoogle(java.lang.String)[pri:0, instance:com.TCS.testCase.searchInGoogleWithData@587e5365]" name="searchGoogle" duration-ms="6711" started-at="2019-08-18T22:56:32Z" data-provider="getData" finished-at="2019-08-18T22:56:39Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[Abhinav]]>
+                <![CDATA[TCS]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchGoogle -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.TCS.testCase.searchInGoogleWithData@587e5365]" name="tearDown" is-config="true" duration-ms="1389" started-at="2019-08-18T11:28:28Z" finished-at="2019-08-18T11:28:29Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.TCS.testCase.searchInGoogleWithData@587e5365]" name="tearDown" is-config="true" duration-ms="2354" started-at="2019-08-18T22:56:40Z" finished-at="2019-08-18T22:56:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
